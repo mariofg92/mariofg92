@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mario</h1>
-<h3 align="center">A Computer Scientist and Engineer</h3>
+<h1 align="center">Hi 👋, It's me Mario </h1><img align="left" width="26px" src="https://icon-icons.com/icons2/206/PNG/256/Hat_-_Mario_24686.png" />
+<h3 align="center">I'm a Computer Scientist and Engineer looking for new challenges</h3>
 
 - 🌱 I’m currently learning **as much as I'm able to.**
 
@@ -13,4 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariofg92&show_icons=true&locale=en&layout=compact" alt="mariofg92" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariofg92&show_icons=true&locale=en" alt="mariofg92" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mariofg92&show_icons=true&locale=en" alt="mariofg92" /></p>
